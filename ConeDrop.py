@@ -5,7 +5,7 @@ def drop_cone(cone_numb):
     x = 0
 
     #Print Blank Line
-    print("\n")
+    print(" ")
 
     #While Loop to Print Cones
     while x < cone_numb:
